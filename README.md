@@ -2,6 +2,9 @@
 ![PyChain Ledger](images/application-image.png)
 This project is about me taking on a role of a fintech engineer, where my task is to build a blockchain-based ledger system and complete with a user-friendly web interface. This ledger should allow partner banks to conduct financial transactions (that is, to transfer money between senders and receivers) and to verify the integrity of the data in the ledger.
 
+## Files
+[PyChain.py](https://github.com/kyleplathe/PyChain-Ledger/blob/main/pychain.py)
+
 ## Libraries Used
 - streamlit
 - dataclass
